@@ -14,7 +14,8 @@ Hence the main focus is create a simple but comprehensive platform for all.
 After the course I took time to study different NGO'S web platform, an example is:
 
  https://www.peacedirect.org/?gclid=Cj0KCQjw17n1BRDEARIsAFDHFezjj_9URJ2AQw7dwh1Xc63e6H_rHe5WgyJl1Qso68NHzTYV-rvm8V4aAuswEALw_wcB
- After where I was able to have a distinctive idea of what i seek to achieve.
+ 
+ After which I was able to have a distinctive idea of what i seek to achieve.
  
 Projects Further Details:
 
