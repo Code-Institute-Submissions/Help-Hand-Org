@@ -19,7 +19,7 @@ After the course I took time to study different NGO'S web platform, an example i
  
 Projects Further Details:
 
-PresentUser Experience:
+Present User Experience:
 
 •	The project focuses mainly on giving all necessary information to the potential and active members, however beneficiaries individual and communities can also access necessary information to understand what the foundation does and stands for.
 
@@ -41,10 +41,15 @@ The following features were added for a simple and Clear User Experience:
 4.	Area of Interest: This section is designed for optimal self description by using Icons that represents the area of interest so that user can even know what they are about reading by just looking at the icons;
 
 •	A computer to represent education. 
+
 •	A Vigilant eye to show "watching out" for child labour offenders. 
+
 •	The circle represents "GENDERLESS", every child irrespective of gender deserves education. 
+
 •	The bell to let you know we will alarm the government to every child Marriage. 
+
 •	The Open padlock represents open opportunities that seems impossible to these communities.
+
 •	And the link icon represent connectivity with other agencies.
 
 The text of each icons are simple and explains what each area represents, visitors that seek further information will be able to explore further by clicking on each link.
@@ -61,7 +66,7 @@ I intend to added the following features to the projects:
 
 •	Gallery Section: Pictures and videos of past project by the Foundation will be on display in this section for visitors to see how much the foundation has achieved over the years.
 
-•	News Section: A section whereby visitors and members can get updated recent informations about projects, meetings and all importants information.
+•	News Section: A section whereby visitors and members can get updated recent informations about projects, meetings and all important information.
 
 •	Policy: A link to legal terms and conditions for membership, adoption of project e.t.c
 
@@ -72,7 +77,7 @@ CONTENT AND CREATIVE IDEA.
 
 The contents are solely mine however I must put on record that ideas and creativity were as a result of studying other useful learning materials online.
 
-Languages: 
+Programming Languages: 
 
 This project uses HTML5, CSS4 & JAVASCRIPT PROGRAMMING LANGUAGES.
 
@@ -157,7 +162,7 @@ Many ideas and creative concepts I have for the project are un achieveable right
 
 
 Credits: 
-I wish to aknowledge my mentor, Dick Vlaanderen who has not only been of immense support but has given me every needed direction to guide in building this project. The student care support at Code Institute always checking on me to follow up my progress and the Tutors who are never tired of helping out even when atimes the question are odd.
+I wish to aknowledge my mentor, Dick Vlaanderen who has not only been of immense support but has gone beyond being a mentor to guide in building this project. The student care support at Code Institute always checking on me to follow up my progress and the Tutors who are never tired of helping out even when atimes the question are odd.
 
 
 
