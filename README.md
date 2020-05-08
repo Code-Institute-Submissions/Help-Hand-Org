@@ -156,6 +156,8 @@ I followed the tuturial by Code Institute Instructor on how to safely commit our
 
 And got the link: https://github.com/Tayo-bet/Help-Hand-Org
 
+Link to Deployed Website: https://tayo-bet.github.io/Help-Hand-Org/
+
 Challenges and Limitation.
 
 Many ideas and creative concepts I have for the project are un achieveable right now due to the scope of my knowledge, I however will seek to implement them in the future after completing Javascript and Jquery Modules in the course.
