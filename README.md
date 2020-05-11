@@ -2,6 +2,8 @@ Front End Development Milestone Project.
 
 Name Of Project: HELPING HANDS ORG.
 
+Link to Deployed Website: https://tayo-bet.github.io/Help-Hand-Org/
+
 Helping Hands ORG is a non profitable foundation based in Sweden, the foundation serves as a platform where individuals, groups and corporate entities comes together to help communities and individuals in Africa. In practical terms, HH ORG adopts projects that are deemed benefical after intensive researches, members(Private and corporate) are then contacted through a thorough project proposal after which interested sponsors registers their interest. 
 
 In over 5 years HH ORG has undertaken over 210 Major community projects like: Building & renovation of classrooms, providing study materials,sponsorship of 56 girl child Education projects, and community water bore-hole projects.
@@ -121,15 +123,18 @@ Video Tuturials: Bootstrap:
 Creative Ideas:
 
 
- https://www.w3schools.com/bootstrap/bootstrap_carousel.asp https://bootstrapmade.com/demo/Alstar/ 
+ https://www.w3schools.com/bootstrap/bootstrap_carousel.asp
+ https://bootstrapmade.com/demo/Alstar/ 
  
- https://www.freecodecamp.org/forum/t/how-to-use-cdn-link/218975 https://www.w3schools.com/jquery/jquery_get_started.asp
+ https://www.freecodecamp.org/forum/t/how-to-use-cdn-link/218975 
+ https://www.w3schools.com/jquery/jquery_get_started.asp
  
 Rosie Project( Code Institute).
 
 
 Testing: 
 
+HTML Test code: W3C markup validation service website was used to test code.
 
 Since the project is Static, some of the features are not operational however the following were done to test the website:
 
@@ -156,7 +161,7 @@ I followed the tuturial by Code Institute Instructor on how to safely commit our
 
 And got the link: https://github.com/Tayo-bet/Help-Hand-Org
 
-Link to Deployed Website: https://tayo-bet.github.io/Help-Hand-Org/
+
 
 Challenges and Limitation.
 
