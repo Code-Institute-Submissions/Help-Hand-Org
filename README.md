@@ -169,7 +169,7 @@ Many ideas and creative concepts I have for the project are un achieveable right
 
 
 Credits: 
-I wish to aknowledge my mentor, Dick Vlaanderen who has not only been of immense support but has gone beyond being a mentor to guide in building this project. The student care support at Code Institute always checking on me to follow up my progress and the Tutors who are never tired of helping out even when atimes the question are odd.
+I wish to aknowledge my mentor, Dick Vlaanderen who has not only been of immense support but has gone beyond being a mentor to guide in building this project. The student care support at Code Institute always checking on me to follow up my progress and the Tutors who are never tired of helping out even when sometimes the question are odd.
 
 
 
